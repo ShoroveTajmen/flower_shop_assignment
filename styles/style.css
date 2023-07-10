@@ -182,3 +182,37 @@ body {
   height: 420px;
   margin: 150px 429px 100px 0px;
 }
+/* Hot deal section end here */
+.insta-container {
+  width: 1460px;
+  height: 320px;
+  margin: auto;
+}
+.insta-info {
+  text-align: center;
+  margin-top: 128px;
+}
+.insta-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  padding-bottom: 24px;
+}
+.insta-description {
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-bottom: 48px;
+}
+.images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  width: 342px;
+  height: 396px;
+  margin-right: 20px;
+  margin-bottom: 128px;
+}
