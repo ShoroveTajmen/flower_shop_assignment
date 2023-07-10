@@ -183,9 +183,11 @@ body {
   margin: 150px 429px 100px 0px;
 }
 /* Hot deal section end here */
+
+/* Insta section start */
 .insta-container {
   width: 1460px;
-  height: 320px;
+  height: 620px;
   margin: auto;
 }
 .insta-info {
@@ -214,5 +216,46 @@ body {
   width: 342px;
   height: 396px;
   margin-right: 20px;
-  margin-bottom: 128px;
+  margin-bottom: 180px;
 }
+
+/* insta section end */
+.latestdeal-container {
+  width: 1430px;
+  height: 449px;
+  margin: 128px auto 128px auto;
+  border-radius: 8px;
+  background-image: url("../Flower Asset/Rectangle 9.png");
+  background-repeat: no-repeat;
+}
+.latestdeal-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  padding-top: 122px;
+}
+.latestdeal-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
+.input {
+  width: 700px;
+  height: 64px;
+  border-radius: 8px;
+  background: #fff;
+  border: none;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 16px;
+  font-weight: 400;
+  margin-right: 10px;
+}
+.latestinput {
+    display: flex;
+    justify-content: center;
+  }
