@@ -10,13 +10,13 @@ body {
 .btn-primary {
   border-radius: 8px;
   background: #e55473;
-  padding: 20px 25px;
+  padding: 20px 40px;
   border: none;
   color: #fff;
   font-size: 20px;
   font-weight: 700;
 }
-/* Banner section styles */
+/* Banner section styles start*/
 .banner-section {
   width: 100%;
   height: 850px;
@@ -48,10 +48,10 @@ body {
 }
 /* Banner style end */
 
-/* Featured Flowers section styles */
+/* Featured Flowers section styles start */
 .featured-container {
   width: 1920px;
-  height: 4867px;
+  height: 1500px;
   background: #fff;
   margin: auto;
 }
@@ -63,7 +63,7 @@ body {
   color: #272727;
   text-align: center;
   font-size: 40px;
-  font-weight: 800;
+  font-weight: 900;
   font-family: Lato;
   padding-bottom: 20px;
 }
@@ -140,4 +140,45 @@ body {
   font-weight: 600;
   line-height: 35px;
   padding-top: 20px;
+}
+/* Featured Flowers section styles end */
+
+/* Hot deal section start here */
+.deal-container {
+  width: 100%;
+  height: 720px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-top: 28px;
+}
+.deal-details {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.deal-info {
+  text-align: center;
+  margin: 230px 0px 160px 220px;
+}
+.deal-title {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+.off {
+  color: #e55473;
+}
+.deal-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  margin-bottom: 30px;
+}
+.deal-img {
+  width: 318px;
+  height: 420px;
+  margin: 150px 429px 100px 0px;
 }
