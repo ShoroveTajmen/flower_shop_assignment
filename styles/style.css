@@ -304,19 +304,19 @@ body {
 }
 .product-name {
   text-align: center;
-  font-family: Lato; 
+  font-family: Lato;
   font-size: 18px;
   font-weight: 700;
 }
-.product-price{
-    text-align: center;
-    font-family: Lato; 
-    font-size: 18px;
-    font-weight: 700;
+.product-price {
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: 700;
 }
-small{
-    padding-left: 10px;
-    text-decoration: line-through;
+small {
+  padding-left: 10px;
+  text-decoration: line-through;
 }
 /* Offer product section style end */
 
