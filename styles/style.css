@@ -265,6 +265,60 @@ body {
 }
 /* Latest Deal section style end */
 
+/* Offer product section style start */
+.offer-title {
+  color: #272727;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 800;
+  padding: 20px;
+}
+.offer-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  padding-bottom: 20px;
+}
+.offer-container {
+  width: 1440px;
+  height: 449px;
+  margin: auto;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-bottom: 128px;
+}
+.offer-details {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.offer-box {
+  margin: 40px 0px 40px 0px;
+}
+.offer-img {
+  width: 350px;
+  height: 350px;
+  border-radius: 9px;
+}
+.product-name {
+  text-align: center;
+  font-family: Lato; 
+  font-size: 18px;
+  font-weight: 700;
+}
+.product-price{
+    text-align: center;
+    font-family: Lato; 
+    font-size: 18px;
+    font-weight: 700;
+}
+small{
+    padding-left: 10px;
+    text-decoration: line-through;
+}
+
 /* footer section start */
 .footer-container {
   width: 100%;
